@@ -32,7 +32,7 @@
     });
   </script>
   <!-- end owl carousel script -->
-
+  <?php wp_footer() ?>
 </body>
 
 </html>

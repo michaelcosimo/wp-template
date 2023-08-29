@@ -4,6 +4,7 @@
 
 <head>
   <!-- Basic -->
+  <?php wp_head() ?>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <!-- Mobile Metas -->
@@ -13,7 +14,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Esigned</title>
+  <title><?php wp_title() ?></title>
 
   <!-- slider stylesheet -->
   <!-- slider stylesheet -->

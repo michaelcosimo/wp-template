@@ -1,7 +1,7 @@
   <!-- <?php //include_once('header.php'); ?> -->
   <?php get_header() ?>
 
-EFGH-Blog
+
 <!-- slider section -->
 <section class=" slider_section position-relative">
   <div class="container">
