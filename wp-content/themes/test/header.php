@@ -62,11 +62,14 @@
                   <a class="nav-link" href="portfolio"> Portfolio </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact">Contact us</a>
+                  <a class="nav-link" href="contact"> Contact us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="blog"> Products </a>
                 </li>
               </ul>
               <div class="user_option">
-                <a href="">
+                <a href="blog">
                   <img src="<?php bloginfo('template_url') ?>/images/user.png" alt="">
                 </a>
                 <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
